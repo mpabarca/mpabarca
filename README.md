@@ -1,4 +1,4 @@
-# About Me:
+
 Hi! 👋🏼
 My name is Maria Paz Abarca.<br>
 I'm Chilean 🇨🇱 Web Developer specializing in Front-End that loves building products and beautiful web applications that give meaning to others. <br><br>

@@ -13,6 +13,7 @@ I've worked in companies and startups in e-commerce, PropTech (real state), Heal
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pacita_tua) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mpabarca) 
+[![LinkedIn](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=plastic)](https://code-and-cozy.medium.com/) 
 <br>
 
 ### 👩🏻‍💻 Frontend Tech Stack:
